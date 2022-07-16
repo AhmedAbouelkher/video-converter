@@ -1,0 +1,10 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "cSpell.words": [
+        "Abouelkher",
+        "memqueue",
+        "middlewares",
+        "Subrouter",
+        "taskq"
+    ]
+}
